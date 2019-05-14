@@ -1,0 +1,66 @@
+body{
+	text-align: center;
+	background: #FFFFFF;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+h1{
+  color: #EC6602;
+  font-weight: 100;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2{
+  color: #009999;
+  text-align: center;
+  font-weight: 100;
+  font-size: 30px;
+}
+
+.modalFooter {
+	margin-top:2em;
+}
+
+.btnLink {
+	background-color: #EC6602;
+	border-radius: 5px;
+	border-color:#EC6602;
+}
+
+.btnLink a {
+	text-decoration:none;
+	font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
+	font-size:1.5em;
+	color:#ffffff;
+	margin:5px;
+}
+
+#clockdiv{
+	font-family: sans-serif;
+	color: #fff;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+}
+
+#clockdiv > div{
+	padding: 10px;
+	border-radius: 3px;
+	background: #00BF96;
+	display: inline-block;
+}
+
+#clockdiv div > span{
+	padding: 15px;
+	border-radius: 3px;
+	background: #00816A;
+	display: inline-block;
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 16px;
+}
